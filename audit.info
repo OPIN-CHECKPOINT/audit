@@ -9,6 +9,5 @@ dependencies[] = common
 
 ; Contributed Modules
 dependencies[] = hacked
-dependencies[] = site_audit
 dependencies[] = pa11y_integration
 dependencies[] = security_review
